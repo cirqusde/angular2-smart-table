@@ -1,17 +1,17 @@
 {
   "name": "@cirqusde/angular2-smart-table",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Angular 2 Smart Table",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dj-fiorex/angular2-smart-table"
+    "url": "git+https://github.com/cirqusde/angular2-smart-table"
   },
   "author": "dj-fiorex",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dj-fiorex/angular2-smart-table/issues"
+    "url": "https://github.com/cirqusde/angular2-smart-table/issues"
   },
-  "homepage": "https://github.com/dj-fiorex/angular2-smart-table#readme",
+  "homepage": "https://github.com/cirqusde/angular2-smart-table#readme",
   "peerDependencies": {
     "@angular/common": "^12.2.0 || ^13.0.0",
     "@angular/core": "^12.2.0 || ^13.0.0",
